@@ -28,6 +28,9 @@ Build out scaffold:
 * Command-line tools
 * Microservices
 
+1. Create a virtualenv: `virtualenv ~/.venv`
+2. edit `~/.bashrc`
+
 #### AWS CloudShell
 #### AWS Cloud9
 
