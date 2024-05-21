@@ -29,7 +29,8 @@ Build out scaffold:
 * Microservices
 
 1. Create a virtualenv: `virtualenv ~/.venv`
-2. edit `~/.bashrc`
+2. Edit `~/.bashrc` `source ~/.venv/bin/activate`
+3. Clone and then make all 
 
 #### AWS CloudShell
 #### AWS Cloud9
