@@ -2,3 +2,5 @@ install:
 	pip install --upgrade pip && pip install -r requirements.txt
 lint:
 	pylint --disable=R,C *.py devops_lib
+test:
+	python -m pytest -vv --cov=devops_lib
